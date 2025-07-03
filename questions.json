@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Из какой страны певица SIA?",
+    "options": [
+      "Аргентина",
+      "Австрия",
+      "Австралия",
+      "Англия"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "В каком коллективе SIA сотрудничала в качестве приглашённой вокалистки?",
+    "options": [
+      "Spice Girls",
+      "Jamiroquai",
+      "Atomic Kitten",
+      "Zero 7"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Первый полноценный альбом певицы SIA?",
+    "options": [
+      "Lady Croissant",
+      "We Are Born",
+      "Colour the Small",
+      "Healing Is Difficult"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Самый популярный трек певицы SIA по версии YouTube Music?",
+    "options": [
+      "Unstoppable",
+      "Cheap Thrills",
+      "Chandelier",
+      "Elastic Heart"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Самая популярная песня певицы SIA, написаанная для другого исполнителя?",
+    "options": [
+      "Diamonds",
+      "Loved Me Back to Life",
+      "Double Rainbow",
+      "Pretty Hurts"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Название санундтрека к фильму '50 оттенков серого' певицы SIA?",
+    "options": [
+      "To Be Human",
+      "Helium",
+      "Deer In Headlights",
+      "Salted Wound"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Сколько песен певицы SIA добирались до 1 места в чартах США?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Самый коммерчески успешный альбомом певицы SIA?",
+    "options": [
+      "This Is Acting",
+      "1000 Forms of Fear",
+      "We Are Born",
+      "Everyday is Christmas"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Кто объявлял выступление певицы SIA в шоу 'Saturday Night Live' ноябрь 2017г?",
+    "options": [
+      "Leonardo Wilhelm DiCaprio",
+      "llen Lee DeGeneres",
+      "James Eugene Carrey",
+      "Donald John Trump"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Количество наград Grammy Awards певицы SIA?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_option": 0
+  }
+]
